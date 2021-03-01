@@ -11,3 +11,7 @@ TIL: If you use arrow function, use "return" keyword. Window.getComputedStyle(el
 **27/02/2021**: Building decumentation page for FreeCodeCamp. Learned about prorotype chain in JS.
 
 TIL: When you create an object in JS, JS engine automatically attaches to it prototype with methods and properties you can use on your original object. DOwn the prototype chain, everything is an object.
+
+**28/02/2021**: Finished technical documentation page for freeCodeCamp. Learned about objects in JS.
+
+TIL: Four ways to create an object in JS - with object literal, using a constructor function, with ECMAScript 6 classes, with Object.create() method.
