@@ -18,4 +18,8 @@ TIL: JS - ... spread operator - takes an array, separates the values, rest opera
 
 **05/03/2021**: JS - learning about class inheritance. Finished bootcamp homework.
 
-TIL: JS to inherit methods from class, use class Subclass extends Mainclass {}
+TIL: JS - to inherit methods from class, use class Subclass extends Mainclass {}
+
+**06/03/2021**: JS - intro to promises. Finished HTML for home and about sections of FCC portfolio project.
+
+TIL: JS - Use async/await keywords to wait for callback to get executed, then continue with the main thread.
