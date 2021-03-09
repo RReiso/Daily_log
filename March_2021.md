@@ -27,3 +27,7 @@ TIL: JS - Use async/await keywords to wait for callback to get executed, then co
 **07/03/2021**: Worked on hamburger navigation bar with Javascript for FCC portfolio project.
 
 TIL: JS - !falsy_value = true; !!falsy_value = false
+
+**08/03/2021**: All Aboard Bootcamp session.
+
+TIL: To activate 3D space, an element needs perspective. transform: perspective(400px);
