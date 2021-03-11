@@ -35,3 +35,7 @@ TIL: CSS: To activate 3D space, an element needs perspective. transform: perspec
 **09/03/2021**: Added hover effect to portfolio project section. All Aboard Bootcamp session.
 
 TIL: MVC - model (how to interact with database), view (what the page is going to look like), controller (what to do when user visits a certain page);
+
+**10/03/2021**: Fixed flex-box issues for portfolio project section, finished welcome section. All Aboard Bootcamp session.
+
+TIL: CSS - How to center an element with position:absolute. (See notebook)
