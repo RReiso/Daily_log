@@ -39,3 +39,7 @@ TIL: MVC - model (how to interact with database), view (what the page is going t
 **10/03/2021**: Fixed flex-box issues for portfolio project section, finished welcome section. All Aboard Bootcamp session.
 
 TIL: CSS - How to center an element with position:absolute. (See notebook)
+
+**11/03/2021**: All Aboard Bootcamp session + rewatched previous lectures + HW.
+
+TIL: Rails - Connect tables (has_many :name1; belongs_to :name2)
